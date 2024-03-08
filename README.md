@@ -6,9 +6,7 @@ Clone this repository to your local machine using the following command:
 git clone https://github.com/tomascolman96/SauceDemo.git
 
 
-Navigate to the project directory:
-cd testcafe-automated-testing
-
+Navigate to the project directory 
 
 Install the dependencies using npm:
 npm install
